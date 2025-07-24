@@ -1,0 +1,20 @@
+[
+  {
+    "herb_number": "1800",
+    "herb_main": "Kamille",
+    "herb_usecase": "Beruhigend, bei Magenbeschwerden",
+    "herb_image": "Wolle 1876 Dose bronchien ehrepreiskraut"
+  },
+  {
+    "herb_number": "1801",
+    "herb_main": "Pfefferminze",
+    "herb_usecase": "Erfrischend, bei Kopfschmerzen",
+    "herb_image": "Wolle 1876 Dose bronchien ehrepreiskraut"
+  },
+  {
+  "herb_number": "1876",
+  "herb_main": "Ehrenpreiskraut",
+  "herb_usecase": "Für die Bronchien",
+  "herb_image": "Wolle 1876 Dose bronchien ehrepreiskraut.jpg"
+  }
+]

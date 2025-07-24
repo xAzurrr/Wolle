@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity - Projects\\Wolle_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC8E96-0ADF-8CD8-631F-47026E7F2E4B}|Assembly-CSharp.csproj|c:\\unity - projects\\wolle_\\assets\\scripts\\ui\\switchscenebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC8E96-0ADF-8CD8-631F-47026E7F2E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\switchscenebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC8E96-0ADF-8CD8-631F-47026E7F2E4B}|Assembly-CSharp.csproj|C:\\Unity - Projects\\Wolle_\\assets\\scripts\\ui\\herbariumlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC8E96-0ADF-8CD8-631F-47026E7F2E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\herbariumlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC8E96-0ADF-8CD8-631F-47026E7F2E4B}|Assembly-CSharp.csproj|C:\\Unity - Projects\\Wolle_\\assets\\scripts\\ui\\herbariumentryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC8E96-0ADF-8CD8-631F-47026E7F2E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\herbariumentryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC8E96-0ADF-8CD8-631F-47026E7F2E4B}|Assembly-CSharp.csproj|C:\\Unity - Projects\\Wolle_\\assets\\scripts\\ui\\herbariuminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC8E96-0ADF-8CD8-631F-47026E7F2E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\herbariuminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HerbariumInformation.cs",
+              "DocumentMoniker": "C:\\Unity - Projects\\Wolle_\\Assets\\Scripts\\UI\\HerbariumInformation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HerbariumInformation.cs",
+              "ToolTip": "C:\\Unity - Projects\\Wolle_\\Assets\\Scripts\\UI\\HerbariumInformation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HerbariumInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T16:16:15.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HerbariumEntryUI.cs",
+              "DocumentMoniker": "C:\\Unity - Projects\\Wolle_\\Assets\\Scripts\\UI\\HerbariumEntryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HerbariumEntryUI.cs",
+              "ToolTip": "C:\\Unity - Projects\\Wolle_\\Assets\\Scripts\\UI\\HerbariumEntryUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HerbariumEntryUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T16:12:33.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HerbariumListManager.cs",
+              "DocumentMoniker": "C:\\Unity - Projects\\Wolle_\\Assets\\Scripts\\UI\\HerbariumListManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HerbariumListManager.cs",
+              "ToolTip": "C:\\Unity - Projects\\Wolle_\\Assets\\Scripts\\UI\\HerbariumListManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HerbariumListManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T16:09:52.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchSceneButton.cs",
+              "DocumentMoniker": "C:\\Unity - Projects\\Wolle_\\Assets\\Scripts\\UI\\SwitchSceneButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SwitchSceneButton.cs",
+              "ToolTip": "C:\\Unity - Projects\\Wolle_\\Assets\\Scripts\\UI\\SwitchSceneButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SwitchSceneButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:21:27.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
